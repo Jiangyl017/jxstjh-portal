@@ -1,0 +1,24 @@
+{
+  "name": "jxstjh-docs-center",
+  "version": "0.0.0",
+  "description": "统一文档",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "docsify serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/guining/docs-temp.git"
+  },
+  "keywords": [
+    "docs"
+  ],
+  "author": "jsyang",
+  "license": "ISC",
+  "dependencies": {
+    "@jxstjh/jhvideo": "^1.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+
+.clear{
+  clear: both;
+}
+.items{
+  /* 示例 */
+  float:left;
+  width:350px;
+  height:130px; 
+  margin-left:16px;
+  margin-top:16px;
+  -o-perspective: 800px;
+  perspective: 800px;
+  flex: 1;
+}
+
+
+[id^='components-button-demo-'] .ant-btn {
+  margin-right: 8px;
+  margin-bottom: 12px;
+}
+[id^='components-button-demo-'] .ant-btn-group > .ant-btn {
+  margin-right: 0;
+}
+
